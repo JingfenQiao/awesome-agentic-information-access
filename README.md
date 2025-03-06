@@ -1,4 +1,4 @@
-# awesome-agentic-information-access
+# awesome-agentic-information-access [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 We are moving towards a world where there will be millions of such expert LLMs, each trained in different areas of knowledge, some overlapping, some highly specialised. To find an answer, instead of searching millions of web pages, users access information by automatically integrating multiple intelligent experts for effective selective search and interaction. We would like to dedicate a space to papers and resources on agentic information access. 
 
@@ -15,13 +15,17 @@ We are moving towards a world where there will be millions of such expert LLMs, 
 *Evangelos Kanoulas, Panagiotis Eustratiadis, Yongkang Li, Yougang Lyu, Vaishali Pal, Gabrielle Poerwawinata, Jingfen Qiao, Zihan Wang*
 arXiv – Feb 2025 [[Paper]](https://arxiv.org/pdf/2502.19298)
 
+**A Multi-Agent Perspective on Modern Information Retrieval**
+*Haya Nachimovsky, Moshe Tennenholtz, Oren Kurland*
+arXiv – Feb 2025 [[Paper]](https://arxiv.org/pdf/2502.14796)
+
 **Musings About the Future of Search: A Return to the Past?**
 *Jimmy Lin, Pankaj Gupta, Will Horn, Gilad Mishne*
 arXiv – Dec 2024 [[Paper]](https://arxiv.org/pdf/2412.18956)
 
 **Large Language Model based Multi-Agents: A Survey of Progress and Challenges**
 *Taicheng Guo, Xiuying Chen, Yaqi Wang, Ruidi Chang, Shichao Pei, Nitesh V. Chawla, Olaf Wiest, Xiangliang Zhang*
-arXiv – Apr 2024 [[Paper]](https://arxiv.org/pdf/2402.01680)
+IJCAI – Apr 2024 [[Paper]](https://arxiv.org/pdf/2402.01680)
 
 ## Multi-LLM Collaboration and Routing
 
